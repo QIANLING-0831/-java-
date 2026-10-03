@@ -4,7 +4,7 @@
 
 <p align="center">一份早期编程练习存档：保留石头剪刀布片段、C 语言练习与随机数实验。</p>
 
-<p align="center"><img src="https://img.shields.io/badge/docs-%E4%B8%AD%E6%96%87-fbbf24?style=flat-square&amp;labelColor=172033" alt="docs: 中文"> <img src="https://img.shields.io/badge/maintainer-QIANLING-0831-fbbf24?style=flat-square&amp;labelColor=172033" alt="maintainer: QIANLING-0831"> </p>
+<p align="center"><img src="https://img.shields.io/badge/docs-%E4%B8%AD%E6%96%87-fbbf24?style=flat-square&amp;labelColor=172033" alt="docs: 中文"> <img src="https://img.shields.io/badge/maintainer-QIANLING--0831-fbbf24?style=flat-square&amp;labelColor=172033" alt="maintainer: QIANLING-0831"> </p>
 
 <p align="center"><a href="#当前状态">当前状态</a> &nbsp; · &nbsp; <a href="#查看与构建">查看与构建</a> &nbsp; · &nbsp; <a href="#内容索引">内容索引</a> &nbsp; · &nbsp; <a href="#后续方向">后续方向</a></p>
 
